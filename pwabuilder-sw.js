@@ -1,3 +1,5 @@
+importScripts("https://progressier.app/zSnnChVKnD4XnZuxb0Sj/sw.js");
+
 self.addEventListener('install', e => {
   self.skipWaiting();
 });
